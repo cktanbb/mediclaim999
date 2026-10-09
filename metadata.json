@@ -1,0 +1,6 @@
+{
+  "name": "MedClaim - Medical Cost Submission Portal",
+  "description": "Submit, track, and verify employee medical claims with automated Sub-Total + GST validation and PDF report export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
